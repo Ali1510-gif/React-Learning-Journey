@@ -12,6 +12,7 @@ Master React by learning its fundamentals, building real-world projects, and fol
 ## 📚 Topics Covered
 
 - Introduction to React
+- JSX
 
 
 ## 🚀 Objective
