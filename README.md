@@ -13,6 +13,10 @@ Master React by learning its fundamentals, building real-world projects, and fol
 
 - Introduction to React
 - JSX
+- Bable
+- React.createElement()
+- React Elements
+- Props
 
 
 ## 🚀 Objective
