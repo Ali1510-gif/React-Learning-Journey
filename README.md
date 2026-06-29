@@ -17,6 +17,11 @@ Master React by learning its fundamentals, building real-world projects, and fol
 - React.createElement()
 - React Elements
 - Props
+- npm
+- vite
+- Builder
+- Plugins
+- @vitejs
 
 
 ## 🚀 Objective
