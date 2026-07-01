@@ -23,6 +23,7 @@ Master React by learning its fundamentals, building real-world projects, and fol
 - Plugins
 - @vitejs
 - Hook
+- React State Management
 
 
 ## 🚀 Objective
