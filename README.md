@@ -22,9 +22,7 @@ Master React by learning its fundamentals, building real-world projects, and fol
 - Builder
 - Plugins
 - @vitejs
-- Hook
-- React State Management
-- Working of UseState
+- UseState Hook
 
 
 ## 🚀 Objective
