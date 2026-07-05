@@ -24,6 +24,7 @@ Master React by learning its fundamentals, building real-world projects, and fol
 - @vitejs
 - UseState Hook
 - UseEffect Hook
+- Virtual DOM
 
 
 ## 🚀 Objective
