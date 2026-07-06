@@ -25,6 +25,7 @@ Master React by learning its fundamentals, building real-world projects, and fol
 - UseState Hook
 - UseEffect Hook
 - Virtual DOM
+- React Memo
 
 
 ## 🚀 Objective
