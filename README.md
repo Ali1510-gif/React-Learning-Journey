@@ -27,7 +27,7 @@ Master React by learning its fundamentals, building real-world projects, and fol
 - Virtual DOM
 - React Memo
 - useMemo
-- useCallBack
+- useCallBack hook
 - useref hook
 
 
