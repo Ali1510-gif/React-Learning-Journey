@@ -29,6 +29,7 @@ Master React by learning its fundamentals, building real-world projects, and fol
 - useMemo hook
 - useCallBack hook
 - useref hook
+- react hook form
 
 
 ## 🚀 Objective
