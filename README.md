@@ -30,6 +30,7 @@ Master React by learning its fundamentals, building real-world projects, and fol
 - useCallBack hook
 - useref hook
 - react hook form
+- zod validation
 
 
 ## 🚀 Objective
